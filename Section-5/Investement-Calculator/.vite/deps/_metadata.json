@@ -1,0 +1,23 @@
+{
+  "hash": "7f994c24",
+  "browserHash": "1022fa25",
+  "optimized": {
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "89c85010",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "04bacca4",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-GFVFCXU2": {
+      "file": "chunk-GFVFCXU2.js"
+    }
+  }
+}
